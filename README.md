@@ -12,6 +12,13 @@ OpsKit 填补了专业命令行工具与普通用户之间的鸿沟。
 For Beginners (小白友好): No complex commands or scripts. If your WiFi is down or printer fails, just find the matching icon and click "Fix".
 
 零门槛：无需懂代码或复杂的 CMD 命令。遇到断网、打印机报错？找到对应图标，点击即修。
+[![Watch the video](https://img.youtube.com/vi/qP8zkglDyC4/maxresdefault.jpg)](https://youtu.be/qP8zkglDyC4)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=qP8zkglDyC4">
+    <img src="https://img.youtube.com/vi/qP8zkglDyC4/maxresdefault.jpg" alt="OpsKit Demo" width="100%">
+  </a>
+</div>
 
 Instant Diagnosis (快速诊断): Not sure if your hard drive is dying? The "Disk Health" and "WiFi Password" tools give you instant answers without technical jargon.
 
@@ -121,6 +128,7 @@ Certain antivirus software might flag the .exe due to its ability to modify syst
 ---------------------------------------------------
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
