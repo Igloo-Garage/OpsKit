@@ -1,4 +1,4 @@
-🛠️ OpsKit v1.2 by Rex | Pro Edition v1.2
+🛠️ OpsKit v1.2 by Rex
 
 OpsKit is a professional, lightweight, and stateless system maintenance toolkit.
 It is packaged as a single executable (.exe) with zero dependencies and leaves no configuration files behind. Perfect for your USB toolkit.
@@ -37,42 +37,62 @@ OpsKit organizes 16 essential utilities into three professional categories.
 OpsKit 将 16 个核心功能整合为三个专业类别：
 
 🖥️ System (系统与优化)
-Focus on functionality restoration and performance.
-Rebuild Icon Cache,"Fix broken, white, or corrupted icons on the Desktop and Taskbar."
-Restart Explorer,Restart the Windows Shell (Explorer.exe) to fix a frozen taskbar or desktop.
-Ultimate Performance,"Unlock and enable the hidden ""Ultimate Performance"" power plan for high-end hardware."
-Fix Windows Update,Reset Windows Update components and clear the software distribution cache.
-Classic Context Menu,Restore the classic Windows 10 style right-click menu on Windows 11.
-Disk Cleanup,"Deep clean system temporary files, cache, and recycle bin to free up disk space."
+Focus on functionality restoration and performance.  
+
+Rebuild Icon Cache,"Fix broken, white, or corrupted icons on the Desktop and Taskbar."  
+
+Restart Explorer,Restart the Windows Shell (Explorer.exe) to fix a frozen taskbar or desktop.  
+
+Ultimate Performance,"Unlock and enable the hidden ""Ultimate Performance"" power plan for high-end hardware."  
+
+Fix Windows Update,Reset Windows Update components and clear the software distribution cache.  
+
+Classic Context Menu,Restore the classic Windows 10 style right-click menu on Windows 11.  
+
+Disk Cleanup,"Deep clean system temporary files, cache, and recycle bin to free up disk space."  
+
 <p align="center">
   <img src="images/004.png" alt="OpsKit Interface" width="800">
 </p>
 
 🌐 Network (网络与连接)
-Focus on connectivity reset and recovery.
-Reset Network Stack,Flush DNS cache and reset Winsock catalog to fix complex connectivity issues.
-Show WiFi Passwords,Instantly retrieve and display saved security keys for all wireless profiles.
-Unlock Browser Policy,"Remove ""Managed by your organization"" restrictions hijacked by malware or policies."
-Restore Hosts File,Reset the system hosts file to default to fix website access or redirection issues.
-Fix LAN Sharing,One-click enable Network Discovery and SMB services for LAN file sharing.
+Focus on connectivity reset and recovery.  
+
+Reset Network Stack,Flush DNS cache and reset Winsock catalog to fix complex connectivity issues.  
+
+Show WiFi Passwords,Instantly retrieve and display saved security keys for all wireless profiles.  
+
+Unlock Browser Policy,"Remove ""Managed by your organization"" restrictions hijacked by malware or policies."  
+
+Restore Hosts File,Reset the system hosts file to default to fix website access or redirection issues.  
+
+Fix LAN Sharing,One-click enable Network Discovery and SMB services for LAN file sharing.  
+
 <p align="center">
   <img src="images/005.png" alt="OpsKit Interface" width="800">
 </p>
 
 🖨️ Hardware (硬件与外设)
-Focus on deep maintenance and repair.
-Repair Print SpoolerClear stuck print queues and restart the Spooler service instantly.
-Fix Error 0x11b / 709Apply registry fixes for network printer sharing errors (RPC/SMB issues).
-Optimize All SSDsForce TRIM commands on all detected NVMe/SATA SSDs to maintain speed.
-Disk Health StatusRead S.M.A.R.T. data to evaluate the physical reliability of your drives.
-Deep System RepairInitiate a comprehensive system file check using SFC and DISM (Time-consuming).
+Focus on deep maintenance and repair.  
+
+Repair Print SpoolerClear stuck print queues and restart the Spooler service instantly.  
+
+Fix Error 0x11b / 709Apply registry fixes for network printer sharing errors (RPC/SMB issues).  
+
+Optimize All SSDsForce TRIM commands on all detected NVMe/SATA SSDs to maintain speed.  
+
+Disk Health StatusRead S.M.A.R.T. data to evaluate the physical reliability of your drives.  
+
+Deep System RepairInitiate a comprehensive system file check using SFC and DISM (Time-consuming).  
+
 <p align="center">
   <img src="images/006.png" alt="OpsKit Interface" width="800">
 </p>
 
 ---------------------------------------------------
 🌍 Global Language Support (多语言支持)
-OpsKit v1.0 Pro features an Intelligent Language Engine. It automatically detects your system UI language upon launch.
+OpsKit v1.0 Pro features an Intelligent Language Engine. It automatically detects your system UI language upon launch.  
+
 OpsKit 内置智能语言引擎，启动时自动识别当前系统语言，无需手动设置。
 
 🇺🇸 English (Default)
@@ -89,17 +109,22 @@ OpsKit 内置智能语言引擎，启动时自动识别当前系统语言，无�
 
 ---------------------------------------------------
 🚀 How to Use (使用方法)
-Download the latest OpsKit.zip from Releases and Upzip.
-Run OpsKit.exe as Administrator (Right-click -> Run as Administrator).
-Note: Admin privileges are required for system modifications.
-Plug & Play: No installation required. You can run it directly from a USB drive.
+Download the latest OpsKit.zip from Releases and Upzip.  
+
+Run OpsKit.exe as Administrator (Right-click -> Run as Administrator).  
+
+Note: Admin privileges are required for system modifications.  
+
+Plug & Play: No installation required. You can run it directly from a USB drive.  
+
 
 ---------------------------------------------------
 🎨 Design Philosophy (设计理念)
 Stateless (无状态): OpsKit does not generate config files (.json, .ini) or registry keys. It keeps your file system clean.
 
 ## 🛡️ Pure & Native (纯净与原生)
-OpsKit follows the philosophy of **"Simplicity out of Complexity"**.
+OpsKit follows the philosophy of **"Simplicity out of Complexity"**.  
+
 OpsKit 遵循**“化繁为简”**的设计哲学。
 
 * **100% Native Windows Commands (全原生命令)**:
@@ -128,6 +153,7 @@ Certain antivirus software might flag the .exe due to its ability to modify syst
 ---------------------------------------------------
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
